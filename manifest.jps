@@ -3,7 +3,7 @@ logo: images/icon.png
 homepage: http://docs.jelastic.com/file-synchronization
 
 version: '1.1'
-baseUrl: https://raw.githubusercontent.com/stackharbor-devops/file-sync/sh-4/
+baseUrl: https://raw.githubusercontent.com/stackharbor-devops/file-sync/sh-5/
 
 targetEditions: any
 
